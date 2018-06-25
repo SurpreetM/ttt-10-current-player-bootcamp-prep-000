@@ -1,6 +1,7 @@
 counter = 0 
 
-def turn_count 
+def turn_count (board)
+  
   
   
   
